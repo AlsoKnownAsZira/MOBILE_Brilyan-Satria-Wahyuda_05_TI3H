@@ -1,4 +1,4 @@
- # Jawaban Praktikum Minggu ke 2
+ # Jawaban Praktikum Minggu ke 3
 ## Brilyan Satria Wahyuda <br> 05 - 2241720019 - TI3H
 
 # Praktikum 1

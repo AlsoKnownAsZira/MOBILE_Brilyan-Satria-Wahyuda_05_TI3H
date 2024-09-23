@@ -1,4 +1,3 @@
-import 'dart:developer';
 //Langkah 2
 void main() {
   int counter = 1;
